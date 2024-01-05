@@ -1,0 +1,1 @@
+ C:\\Users\\Lind\\Documents\\GitHub\\world_time_app\\.dart_tool\\flutter_build\\b07ae92d7e5f040fbaad8c405bb960b1\\native_assets.yaml: 
